@@ -1,4 +1,4 @@
-# papa-deyner
+# repositorio 1 en el curso de git
 primer repo en git hub
 
 ## descripcion
